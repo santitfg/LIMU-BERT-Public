@@ -5,4 +5,4 @@
 /log/
 /embed/
 #/saved/
-
+**/__pycache__/
